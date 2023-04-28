@@ -1,5 +1,4 @@
-# Association of Personality Traits with
-Song Lyrics
+# Association of Personality Traits with Song Lyrics
 
 ## Project Report
 
